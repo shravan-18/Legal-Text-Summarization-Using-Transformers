@@ -21,7 +21,6 @@ Repository for our NLP Project during Fall '24 on Legal Text Summarization Using
   - [Installation](#installation)
   - [Running the Notebook](#running-the-notebook)
 - [Conclusion](#conclusion)
-- [Future Work](#future-work)
 - [References](#references)
 
 ## Introduction
