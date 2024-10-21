@@ -1,7 +1,7 @@
 # Legal-Text-Summarization-Using-Transformers
 Repository for our NLP Project during Fall '24 on Legal Text Summarization Using Transformers.
 
-![Overall Architecture](https://github.com/shravan-18/Legal-Text-Summarization-Using-Transformers/blob/main/Paper-Resources/Overall-Architecture.png)
+![Overall Architecture](https://github.com/shravan-18/Legal-Text-Summarization-Using-Transformers/blob/main/Docs-Submission/Overall-Architecture.png)
 
 ## Table of Contents
 
