@@ -1,6 +1,12 @@
 # Legal-Text-Summarization-Using-Transformers
 Repository for our NLP Project during Fall '24 on Legal Text Summarization Using Transformers.
 
+### Team Members:
+
+#### - **Shravan Venkatraman 21BCE1200**
+#### - **Pavan Kumar S 21BCE1179**
+#### - **Ayush Kumar Lal 21BCE1129**
+
 ![Overall Architecture](https://github.com/shravan-18/Legal-Text-Summarization-Using-Transformers/blob/main/Docs-Submission/Overall-Architecture.png)
 
 ## Table of Contents
